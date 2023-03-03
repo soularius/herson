@@ -1,0 +1,5923 @@
+[
+    {
+        "Id_Item": 72933,
+        "Codigo": "150022",
+        "Descripcion": "Algodon Motas Blancas X 500 G Higietex",
+        "Grupo": "Higietex",
+        "Subgrupo": "756 Higietex",
+        "Iva": 0,
+        "Nombre": "Algodon Motas Blanca",
+        "Desc_Corta": "Algodon Motas Blancas X 500 G Higietex",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 72933,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72933.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1578,
+                "Ds_Laboratorio": "Higietex"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2017DM-0000295-R3",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7702208150022",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72936,
+        "Codigo": "000004*PB",
+        "Descripcion": "Probador Polvos Compactos Bardot",
+        "Grupo": "Bardot",
+        "Subgrupo": "450 Bardot",
+        "Iva": 0,
+        "Nombre": "Probador Polvos Comp",
+        "Desc_Corta": "Probador Polvos Compactos Bardot",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 72936,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72936.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 2046,
+                "Ds_Laboratorio": "Bardot"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": []
+    },
+    {
+        "Id_Item": 72943,
+        "Codigo": "302678",
+        "Descripcion": "Yodo Blanco X 20 Ml Promarquin",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 0,
+        "Nombre": "Yodo Blanco X 20 Ml ",
+        "Desc_Corta": "Yodo Blanco X 20 Ml Promarquin",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 72943,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72943.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I 162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353302678",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72945,
+        "Codigo": "304788",
+        "Descripcion": "Azufre 50 Sob X 15 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 0,
+        "Nombre": "Azufre 50 Sob X 15 G",
+        "Desc_Corta": "Azufre 50 Sob X 15 Gr Promarquim",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 72945,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72945.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353304788",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72946,
+        "Codigo": "302494",
+        "Descripcion": "Creolina Veterina X 25 Ml Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 0,
+        "Nombre": "Creolina Veterina X ",
+        "Desc_Corta": "Creolina Veterina X 25 Ml Promarquim",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 72946,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72946.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353302494",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72947,
+        "Codigo": "307017",
+        "Descripcion": "Sulfato De Magnesio X 400  Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Sulfato De Magnesio ",
+        "Desc_Corta": "Sulfato De Magnesio X 400  Gr Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 72947,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72947.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353307017",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72950,
+        "Codigo": "306300",
+        "Descripcion": "Piedra Alumbre X 400 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Piedra Alumbre X 400",
+        "Desc_Corta": "Piedra Alumbre X 400 Gr Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 72950,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72950.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353306300",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72957,
+        "Codigo": "100025",
+        "Descripcion": "Gotero Dosificador Plastico 1.5 Ml Yoma",
+        "Grupo": "Yoma",
+        "Subgrupo": "678 Yoma",
+        "Iva": 19,
+        "Nombre": "Gotero Dosificador P",
+        "Desc_Corta": "Gotero Dosificador Plastico 1.5 Ml Yoma",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 72957,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72957.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1585,
+                "Ds_Laboratorio": "Yoma"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": []
+    },
+    {
+        "Id_Item": 72960,
+        "Codigo": "306287",
+        "Descripcion": "Piedra Alumbre 50 Sob X 15 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Piedra Alumbre 50 So",
+        "Desc_Corta": "Piedra Alumbre 50 Sob X 15 Gr Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 72960,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72960.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353306287",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72964,
+        "Codigo": "306645",
+        "Descripcion": "Sal Nitro 50 Sob X 15 Gr  Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Sal Nitro 50 Sob X 1",
+        "Desc_Corta": "Sal Nitro 50 Sob X 15 Gr  Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 72964,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72964.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "770353306645",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72965,
+        "Codigo": "306751",
+        "Descripcion": "Sal Epson X 400 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Sal Epson X 400 Gr P",
+        "Desc_Corta": "Sal Epson X 400 Gr Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 72965,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72965.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "RESOLUCION-243630-091999",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353306751",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72966,
+        "Codigo": "307277",
+        "Descripcion": "Vaselina X 25gm Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Vaselina X 25gm Prom",
+        "Desc_Corta": "Vaselina X 25gm Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 72966,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72966.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7101353307211",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72967,
+        "Codigo": "307291",
+        "Descripcion": "Vaselina X 120 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Vaselina X 120 Gr Pr",
+        "Desc_Corta": "Vaselina X 120 Gr Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 72967,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72967.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353307291",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72968,
+        "Codigo": "307284",
+        "Descripcion": "Vaselina X 60 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Vaselina X 60 Gr Pro",
+        "Desc_Corta": "Vaselina X 60 Gr Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 72968,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72968.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353307284",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72969,
+        "Codigo": "307307",
+        "Descripcion": "Vaselina X 180 Mg Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Vaselina X 180 Mg Pr",
+        "Desc_Corta": "Vaselina X 180 Mg Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 72969,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72969.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353307307",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72971,
+        "Codigo": "305631",
+        "Descripcion": "Linaza 50 Sob X 15 Gr  Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Linaza 50 Sob X 15 G",
+        "Desc_Corta": "Linaza 50 Sob X 15 Gr  Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 72971,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72971.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353305631",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72973,
+        "Codigo": "303538",
+        "Descripcion": "Acido Borico 50 Sob X 15 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Acido Borico 50 Sob ",
+        "Desc_Corta": "Acido Borico 50 Sob X 15 Gr Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 72973,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72973.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353303538",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72983,
+        "Codigo": "300599",
+        "Descripcion": "Aceite De Ricino U.S.P X 20 Ml Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Aceite De Ricino U.S",
+        "Desc_Corta": "Aceite De Ricino U.S.P X 20 Ml Promarqui",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 72983,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72983.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "I.S 162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353300599",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72984,
+        "Codigo": "300605",
+        "Descripcion": "Aceite De Ricino X 60 Ml Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Aceite De Ricino X 6",
+        "Desc_Corta": "Aceite De Ricino X 60 Ml Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 72984,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72984.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353300605",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72986,
+        "Codigo": "300629",
+        "Descripcion": "Aceite De Ricino X 500 Ml Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Aceite De Ricino X 5",
+        "Desc_Corta": "Aceite De Ricino X 500 Ml Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 72986,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72986.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353300629",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72993,
+        "Codigo": "306584",
+        "Descripcion": "Sal De Mar X 400 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 0,
+        "Nombre": "Sal De Mar X 400 Gr ",
+        "Desc_Corta": "Sal De Mar X 400 Gr Promarquim",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 72993,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72993.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353306584",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 72995,
+        "Codigo": "305648",
+        "Descripcion": "Linaza X 200 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Linaza X 200 Gr Prom",
+        "Desc_Corta": "Linaza X 200 Gr Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 72995,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/72995.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353305648",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73001,
+        "Codigo": "306492",
+        "Descripcion": "Sal Inglaterra X 200 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Sal Inglaterra X 200",
+        "Desc_Corta": "Sal Inglaterra X 200 Gr Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73001,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73001.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353306492",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73002,
+        "Codigo": "306508",
+        "Descripcion": "Sal Inglaterra X 400 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Sal Inglaterra X 400",
+        "Desc_Corta": "Sal Inglaterra X 400 Gr Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73002,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73002.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353306508",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73010,
+        "Codigo": "305853",
+        "Descripcion": "Manteca De Cacao X 100 Uni Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Manteca De Cacao X 1",
+        "Desc_Corta": "Manteca De Cacao X 100 Uni Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73010,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73010.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "Res243630",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353305853",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73016,
+        "Codigo": "306669",
+        "Descripcion": "Sal Nitro X 400 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Sal Nitro X 400 Gr P",
+        "Desc_Corta": "Sal Nitro X 400 Gr Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73016,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73016.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353306669",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73017,
+        "Codigo": "306829",
+        "Descripcion": "Sal Glowber 50 Sob X 15 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Sal Glowber 50 Sob X",
+        "Desc_Corta": "Sal Glowber 50 Sob X 15 Gr Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73017,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73017.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353306829",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73021,
+        "Codigo": "304801",
+        "Descripcion": "Azufre X 400 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 0,
+        "Nombre": "Azufre X 400 Gr Prom",
+        "Desc_Corta": "Azufre X 400 Gr Promarquim",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73021,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73021.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353304801",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73022,
+        "Codigo": "300513",
+        "Descripcion": "Aceite De Oliva X 20 Ml Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Aceite De Oliva X 20",
+        "Desc_Corta": "Aceite De Oliva X 20 Ml Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73022,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73022.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "RESOLUCION-243630-091999",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353300513",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73030,
+        "Codigo": "301251",
+        "Descripcion": "Amoniaco X 500 Ml Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Amoniaco X 500 Ml Pr",
+        "Desc_Corta": "Amoniaco X 500 Ml Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73030,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73030.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353301251",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73070,
+        "Codigo": "000140",
+        "Descripcion": "Bronquisol Ung X 19g Jgb",
+        "Grupo": "Jgb",
+        "Subgrupo": "416 Jgb",
+        "Iva": 0,
+        "Nombre": "Bronquisol Ung X 19g",
+        "Desc_Corta": "Bronquisol Ung X 19g Jgb",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73070,
+                "Url": ""
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1593,
+                "Ds_Laboratorio": "Jgb"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "56568-01",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": " 2007M- 007133 R-2",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73073,
+        "Codigo": "600607",
+        "Descripcion": "Lanocrema Crema Protectota X 25 Gr Athos",
+        "Grupo": "Athos",
+        "Subgrupo": "684 Athos",
+        "Iva": 19,
+        "Nombre": "Lanocrema Crema Prot",
+        "Desc_Corta": "Lanocrema Crema Protectota X 25 Gr Athos",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73073,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73073.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1586,
+                "Ds_Laboratorio": "Athos"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "NSOC61650-14CO",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7705471600607",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73074,
+        "Codigo": "600621",
+        "Descripcion": "Lanocrema Crema Protectota X 60 Gr Athos",
+        "Grupo": "Athos",
+        "Subgrupo": "684 Athos",
+        "Iva": 19,
+        "Nombre": "Lanocrema Crema Prot",
+        "Desc_Corta": "Lanocrema Crema Protectota X 60 Gr Athos",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73074,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73074.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1586,
+                "Ds_Laboratorio": "Athos"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "NSOC61650-14CO",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7705471600621",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73079,
+        "Codigo": "301640",
+        "Descripcion": "Formol X 20 Ml Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Formol X 20 Ml Proma",
+        "Desc_Corta": "Formol X 20 Ml Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73079,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73079.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353301640",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73081,
+        "Codigo": "000151",
+        "Descripcion": "Guayacolato De Glicerilo 100 Mg\/5 Ml Jbe X 120 Ml Licol",
+        "Grupo": "Licol",
+        "Subgrupo": "538 Licol",
+        "Iva": 0,
+        "Nombre": "Guayacolato De Glice",
+        "Desc_Corta": "Guayacolato De Glicerilo 100 Mg\/5 Ml Jbe",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73081,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73081.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1594,
+                "Ds_Laboratorio": "Licol"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "001980588-01",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2017M-05165-R2",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7705451000151",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73082,
+        "Codigo": "302296",
+        "Descripcion": "Tintura De Yodo X 20 Ml Promarquin",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Tintura De Yodo X 20",
+        "Desc_Corta": "Tintura De Yodo X 20 Ml Promarquin",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73082,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73082.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I 162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353302296",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73084,
+        "Codigo": "000615",
+        "Descripcion": "Alcanfor X 60 Panes Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Alcanfor X 60 Panes ",
+        "Desc_Corta": "Alcanfor X 60 Panes Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73084,
+                "Url": ""
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "RESOLUCION-243630-091999",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353304016",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73085,
+        "Codigo": "000155",
+        "Descripcion": "Creolina Veterina X 250 Ml Promarquin",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 0,
+        "Nombre": "Creolina Veterina X ",
+        "Desc_Corta": "Creolina Veterina X 250 Ml Promarquin",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73085,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73085.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "RES-243630-091999",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353302524",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73086,
+        "Codigo": "303835",
+        "Descripcion": "Acido Salicilico X 50sob Promarquin",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Acido Salicilico X 5",
+        "Desc_Corta": "Acido Salicilico X 50sob Promarquin",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73086,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73086.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "RES243630-09\/1999",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353303835",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73109,
+        "Codigo": "300101",
+        "Descripcion": "Acido Borico X 400 Gr Athos",
+        "Grupo": "Athos",
+        "Subgrupo": "684 Athos",
+        "Iva": 19,
+        "Nombre": "Acido Borico X 400 G",
+        "Desc_Corta": "Acido Borico X 400 Gr Athos",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73109,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73109.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1586,
+                "Ds_Laboratorio": "Athos"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "RES-243630-1999",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7705471300101",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73126,
+        "Codigo": "304986",
+        "Descripcion": "Bicarbonato De Sodio 50 Sob x 15 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Bicarbonato De Sodio",
+        "Desc_Corta": "Bicarbonato De Sodio 50 Sob x 15 Gr Prom",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73126,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73126.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353304986",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73128,
+        "Codigo": "100200",
+        "Descripcion": "Pomada Peña X 25 Gr Isaza Peña",
+        "Grupo": "Isaza Peña",
+        "Subgrupo": "350 Isaza Peña",
+        "Iva": 0,
+        "Nombre": "Pomada Peña X 25 Gr ",
+        "Desc_Corta": "Pomada Peña X 25 Gr Isaza Peña",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73128,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73128.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1598,
+                "Ds_Laboratorio": "Isaza Peña"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "NSOC88501-18CO",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7703377000040",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73129,
+        "Codigo": "000201",
+        "Descripcion": "Pomada Peña X 40 Gr Isaza Peña",
+        "Grupo": "Isaza Peña",
+        "Subgrupo": "350 Isaza Peña",
+        "Iva": 0,
+        "Nombre": "Pomada Peña X 40 Gr ",
+        "Desc_Corta": "Pomada Peña X 40 Gr Isaza Peña",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73129,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73129.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1598,
+                "Ds_Laboratorio": "Isaza Peña"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "NSOC88501-18CO",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7703377000057",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73130,
+        "Codigo": "000202",
+        "Descripcion": "Pomada Peña X 60 Gr Isaza Peña",
+        "Grupo": "Isaza Peña",
+        "Subgrupo": "350 Isaza Peña",
+        "Iva": 0,
+        "Nombre": "Pomada Peña X 60 Gr ",
+        "Desc_Corta": "Pomada Peña X 60 Gr Isaza Peña",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73130,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73130.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1598,
+                "Ds_Laboratorio": "Isaza Peña"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7703377000064",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73133,
+        "Codigo": "301440",
+        "Descripcion": "Citronela Aceite X 20 Ml Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Citronela Aceite X 2",
+        "Desc_Corta": "Citronela Aceite X 20 Ml Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73133,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73133.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353301442",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73140,
+        "Codigo": "305006",
+        "Descripcion": "Bicarbonato De Sodio X 400 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Bicarbonato De Sodio",
+        "Desc_Corta": "Bicarbonato De Sodio X 400 Gr Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73140,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73140.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353305006",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73145,
+        "Codigo": "305570",
+        "Descripcion": "Lactosa 50 Sob X 15 Gr Promarquin",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Lactosa 50 Sob X 15 ",
+        "Desc_Corta": "Lactosa 50 Sob X 15 Gr Promarquin",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73145,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73145.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353305570",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73146,
+        "Codigo": "307314",
+        "Descripcion": "Vaselina X 250 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Vaselina X 250 Gr Pr",
+        "Desc_Corta": "Vaselina X 250 Gr Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73146,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73146.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "RES243630-091999",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353307314",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73149,
+        "Codigo": "000222",
+        "Descripcion": "Gastroprazol 40 Mg X 14 Cap Esomeprazol Pharmalaser",
+        "Grupo": "Pharma Laser",
+        "Subgrupo": "200 Pharma laser",
+        "Iva": 0,
+        "Nombre": "Gastroprazol 40 Mg X",
+        "Desc_Corta": "Gastroprazol 40 Mg X 14 Cap Esomeprazol ",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73149,
+                "Url": ""
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1582,
+                "Ds_Laboratorio": "Pharma Laser"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "20027263-2",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73151,
+        "Codigo": "301220",
+        "Descripcion": "Amoniaco X 20 Ml Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Amoniaco X 20 Ml Pro",
+        "Desc_Corta": "Amoniaco X 20 Ml Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73151,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73151.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353301220",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73152,
+        "Codigo": "302104",
+        "Descripcion": "Thimerosal Incoloro Got X 20 Ml Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 0,
+        "Nombre": "Thimerosal Incoloro ",
+        "Desc_Corta": "Thimerosal Incoloro Got X 20 Ml Promarqu",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73152,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73152.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "RES243630-091999",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353302104",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73157,
+        "Codigo": "305594",
+        "Descripcion": "Lactosa X 400 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Lactosa X 400 Gr Pro",
+        "Desc_Corta": "Lactosa X 400 Gr Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73157,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73157.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353305594",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73158,
+        "Codigo": "000231",
+        "Descripcion": "Norfloxacina 400 Mg X 14 Tab MP",
+        "Grupo": "Lafrancol",
+        "Subgrupo": "041 A.G. - American Generics",
+        "Iva": 0,
+        "Nombre": "Norfloxacina 400 Mg ",
+        "Desc_Corta": "Norfloxacina 400 Mg X 14 Tab MP",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73158,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73158.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1589,
+                "Ds_Laboratorio": "Lafrancol"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "32640-04",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "M-010653-R1",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7706569000231",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73159,
+        "Codigo": "301596",
+        "Descripcion": "Espiritu Nitro Dulce X 20 Ml Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 0,
+        "Nombre": "Espiritu Nitro Dulce",
+        "Desc_Corta": "Espiritu Nitro Dulce X 20 Ml Promarquim",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73159,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73159.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I 162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353301787",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73160,
+        "Codigo": "000233",
+        "Descripcion": "Dolofen Niños 1+ Acetaminofen 30 Mg\/Ml Jbe X 60 Ml Cereza Procaps",
+        "Grupo": "Procaps",
+        "Subgrupo": "202 Procaps",
+        "Iva": 0,
+        "Nombre": "Dolofen Niños 1+ Ace",
+        "Desc_Corta": "Dolofen Niños 1+ Acetaminofen 30 Mg\/Ml J",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73160,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73160.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1601,
+                "Ds_Laboratorio": "Procaps"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "38393-03",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2021M-003670-R5",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7703153000233",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73161,
+        "Codigo": "307000",
+        "Descripcion": "Sulfato De Magnesio X 200 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Sulfato De Magnesio ",
+        "Desc_Corta": "Sulfato De Magnesio X 200 Gr Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73161,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73161.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353307000",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73163,
+        "Codigo": "000236",
+        "Descripcion": "Creolina Veterina X 500 Ml Promarquin",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 0,
+        "Nombre": "Creolina Veterina X ",
+        "Desc_Corta": "Creolina Veterina X 500 Ml Promarquin",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73163,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73163.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "RES-243630-091999",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353302531",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73164,
+        "Codigo": "302609",
+        "Descripcion": "Violeta De Genciana Sol X 20 Ml Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 0,
+        "Nombre": "Violeta De Genciana ",
+        "Desc_Corta": "Violeta De Genciana Sol X 20 Ml Promarqu",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73164,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73164.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353302609",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73165,
+        "Codigo": "300308",
+        "Descripcion": "Aceite Castor X 20 Ml Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Aceite Castor X 20 M",
+        "Desc_Corta": "Aceite Castor X 20 Ml Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73165,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73165.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353300308",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73166,
+        "Codigo": "765052",
+        "Descripcion": "Azitrogram Azitromicina 500 Mg X 3 Tab Pharmalaser",
+        "Grupo": "Pharma Laser",
+        "Subgrupo": "200 Pharma laser",
+        "Iva": 0,
+        "Nombre": "Azitrogram Azitromic",
+        "Desc_Corta": "Azitrogram Azitromicina 500 Mg X 3 Tab P",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73166,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73166.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1582,
+                "Ds_Laboratorio": "Pharma Laser"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "20027262-04",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2017M-0012388-R1",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7709198765052",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73168,
+        "Codigo": "305334",
+        "Descripcion": "Cloruro De Magnesio X 400 Gr Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Cloruro De Magnesio ",
+        "Desc_Corta": "Cloruro De Magnesio X 400 Gr Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73168,
+                "Url": ""
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "RES243630-1999",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353305334",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73173,
+        "Codigo": "000246",
+        "Descripcion": "Foliket Shampoo X 120 Ml Ketoconazol Pharmalaser",
+        "Grupo": "Pharma Laser",
+        "Subgrupo": "200 Pharma laser",
+        "Iva": 0,
+        "Nombre": "Foliket Shampoo X 12",
+        "Desc_Corta": "Foliket Shampoo X 120 Ml Ketoconazol Pha",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73173,
+                "Url": ""
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1582,
+                "Ds_Laboratorio": "Pharma Laser"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "20029075-03",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2018M-0012444-R1",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707322000246",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73179,
+        "Codigo": "300667",
+        "Descripcion": "Aceite Verde X 20 Ml Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Aceite Verde X 20 Ml",
+        "Desc_Corta": "Aceite Verde X 20 Ml Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73179,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73179.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353300667",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73186,
+        "Codigo": "000259",
+        "Descripcion": "Trigentax Clotr\/Neomic\/Betametas Cr Top X 20 Gr Chalver",
+        "Grupo": "Chalver",
+        "Subgrupo": "025 Chalver",
+        "Iva": 0,
+        "Nombre": "Trigentax Clotr\/Neom",
+        "Desc_Corta": "Trigentax Clotr\/Neomic\/Betametas Cr Top ",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73186,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73186.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1599,
+                "Ds_Laboratorio": "Chalver"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "000049309-03",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2015M-006655-R3",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7703889000552",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73202,
+        "Codigo": "000275",
+        "Descripcion": "Nitazoxanida 500mg X 6Tab Nitanox Impropharma",
+        "Grupo": "Impropharma",
+        "Subgrupo": "052 Impropharma",
+        "Iva": 0,
+        "Nombre": "Nitazoxanida 500mg X",
+        "Desc_Corta": "Nitazoxanida 500mg X 6Tab Nitanox Improp",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73202,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73202.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1604,
+                "Ds_Laboratorio": "Impropharma"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "20071147-1",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2015M-0015651",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7711000000275",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73204,
+        "Codigo": "278292",
+        "Descripcion": "Foliket Ketoconazol 2% Shampoo X 200 Ml Pharmalaser",
+        "Grupo": "Pharma Laser",
+        "Subgrupo": "200 Pharma laser",
+        "Iva": 0,
+        "Nombre": "Foliket Ketoconazol ",
+        "Desc_Corta": "Foliket Ketoconazol 2% Shampoo X 200 Ml ",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73204,
+                "Url": ""
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1582,
+                "Ds_Laboratorio": "Pharma Laser"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "20029075-01",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2018M-0012444-R1",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7709519278292",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73213,
+        "Codigo": "000286",
+        "Descripcion": "Deflazacort 30mg X 10tab Clobak REGULADO",
+        "Grupo": "Incobra",
+        "Subgrupo": "Pharma",
+        "Iva": 0,
+        "Nombre": "Deflazacort 30mg X 1",
+        "Desc_Corta": "Deflazacort 30mg X 10tab Clobak REGULADO",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73213,
+                "Url": ""
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1606,
+                "Ds_Laboratorio": "Incobra"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": []
+    },
+    {
+        "Id_Item": 73221,
+        "Codigo": "000187",
+        "Descripcion": "Guayacolato De Glicerilo 2 % Jbe X 120 Ml menta MP",
+        "Grupo": "Lafrancol",
+        "Subgrupo": "041 A.G. - American Generics",
+        "Iva": 0,
+        "Nombre": "Guayacolato De Gli",
+        "Desc_Corta": "Guayacolato De Glicerilo 2 %",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73221,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73221.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1589,
+                "Ds_Laboratorio": "Lafrancol"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 2,
+                "Ds_Marca": "Los Infaltables"
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "000036899-01",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2021M-011756-R4",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7706569000187",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73224,
+        "Codigo": "000299",
+        "Descripcion": "Alcanfor X 120 Un Promarquin",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Alcanfor X 120 Un Pr",
+        "Desc_Corta": "Alcanfor X 120 Un Promarquin",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73224,
+                "Url": ""
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "RESOLUCION-243630-091999",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353304023",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73225,
+        "Codigo": "000300",
+        "Descripcion": "Inflasan Piroxicam 0.5% Gel X 50 Gr Ropsohn",
+        "Grupo": "Ropsohn",
+        "Subgrupo": "OTC",
+        "Iva": 0,
+        "Nombre": "Inflasan Piroxicam 0",
+        "Desc_Corta": "Inflasan Piroxicam 0.5% Gel X 50 Gr Rops",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73225,
+                "Url": ""
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1614,
+                "Ds_Laboratorio": "Ropsohn"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "46475-2",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2009 M- 012031 R1",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7704588000300",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73226,
+        "Codigo": "100797",
+        "Descripcion": "Acido Acetico Fco Gotero X 60 Ml Promarquin",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Acido Acetico Fco Go",
+        "Desc_Corta": "Acido Acetico Fco Gotero X 60 Ml Promarq",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73226,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73226.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "CERTIFICADO # 162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353300797",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73232,
+        "Codigo": "000307",
+        "Descripcion": "Sal Epson X 200g Promarquim",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Sal Epson X 200g Pro",
+        "Desc_Corta": "Sal Epson X 200g Promarquim",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73232,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73232.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "RES243630-091999",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353306744",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73238,
+        "Codigo": "000313",
+        "Descripcion": "Venda Elast Blanca 3 X 5 Yar Medical Supplies",
+        "Grupo": "Medical Supplies",
+        "Subgrupo": "717 Medical Supplies",
+        "Iva": 0,
+        "Nombre": "Venda Elast Blanca 3",
+        "Desc_Corta": "Venda Elast Blanca 3 X 5 Yar Medical Sup",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73238,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73238.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1609,
+                "Ds_Laboratorio": "Medical Supplies"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707364802167",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73239,
+        "Codigo": "802174",
+        "Descripcion": "Venda Elast Blanca 4 X 5 Yardas Medical Supplies",
+        "Grupo": "Medical Supplies",
+        "Subgrupo": "717 Medical Supplies",
+        "Iva": 0,
+        "Nombre": "Venda Elast Blanca 4",
+        "Desc_Corta": "Venda Elast Blanca 4 X 5 Yardas Medical ",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73239,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73239.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1609,
+                "Ds_Laboratorio": "Medical Supplies"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2017DM-0016044",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707364802174",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73240,
+        "Codigo": "000315",
+        "Descripcion": "Venda Elast Blanca 5\" X 5 Yar Medical Supplies",
+        "Grupo": "Medical Supplies",
+        "Subgrupo": "717 Medical Supplies",
+        "Iva": 0,
+        "Nombre": "Venda Elast Blanca 5",
+        "Desc_Corta": "Venda Elast Blanca 5\" X 5 Yar Medical Su",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73240,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73240.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1609,
+                "Ds_Laboratorio": "Medical Supplies"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2017DM-0016044",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707364802181",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73241,
+        "Codigo": "802198",
+        "Descripcion": "Venda Elast Blanca 6 X 5 Yar Medical Supplies",
+        "Grupo": "Medical Supplies",
+        "Subgrupo": "717 Medical Supplies",
+        "Iva": 0,
+        "Nombre": "Venda Elast Blanca 6",
+        "Desc_Corta": "Venda Elast Blanca 6 X 5 Yar Medical Sup",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73241,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73241.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1609,
+                "Ds_Laboratorio": "Medical Supplies"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2017DM-0016044",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707364802198",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73245,
+        "Codigo": "400010",
+        "Descripcion": "Sorel Hidroquinona 3 G Locion X 120 Ml Sorel",
+        "Grupo": "Sorel",
+        "Subgrupo": "464 Sorel",
+        "Iva": 0,
+        "Nombre": "Sorel Hidroquinona 3",
+        "Desc_Corta": "Sorel Hidroquinona 3 G Locion X 120 Ml S",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73245,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73245.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1611,
+                "Ds_Laboratorio": "Sorel"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "34027-01",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2022 M-002166-R4",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7703451000010",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73256,
+        "Codigo": "000331",
+        "Descripcion": "Roxicaina Lidocaina 2% Sol Iny X 50 Ml Ropsohn",
+        "Grupo": "Ropsohn",
+        "Subgrupo": "427 Ropsohn",
+        "Iva": 0,
+        "Nombre": "Roxicaina Lidocaina ",
+        "Desc_Corta": "Roxicaina Lidocaina 2% Sol Iny X 50 Ml R",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73256,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73256.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1614,
+                "Ds_Laboratorio": "Ropsohn"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "31540-02",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2009M-010277-R2",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7704588000331",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73269,
+        "Codigo": "000039",
+        "Descripcion": "Espasmo Siligas Dimetilpolisiloxano\/Papaverina Got Orales X 30 Ml Incobra",
+        "Grupo": "Incobra",
+        "Subgrupo": "Pharma",
+        "Iva": 0,
+        "Nombre": "Espasmo Siligas Dime",
+        "Desc_Corta": "Espasmo Siligas Dimetilpolisiloxano\/Papa",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73269,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73269.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1606,
+                "Ds_Laboratorio": "Incobra"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "36110-01",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2012M-0000977-R1",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7706310000039",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73270,
+        "Codigo": "000138",
+        "Descripcion": "Siligas Dimetilpolisiloxano Got Orales X 30 Ml Cereza Incobra",
+        "Grupo": "Incobra",
+        "Subgrupo": "Pharma",
+        "Iva": 0,
+        "Nombre": "Siligas Dimetilpolis",
+        "Desc_Corta": "Siligas Dimetilpolisiloxano Got Orales X",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73270,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73270.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1606,
+                "Ds_Laboratorio": "Incobra"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "19926051-01",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2020M-0000870-R2",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7706310000138",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73276,
+        "Codigo": "707013",
+        "Descripcion": "Vick Vaporub Pote X 50g Procter & Gamble",
+        "Grupo": "Procter & Gamble",
+        "Subgrupo": "628 Procter & Gamble",
+        "Iva": 0,
+        "Nombre": "Vick Vaporub Pote X ",
+        "Desc_Corta": "Vick Vaporub Pote X 50g Procter & Gamble",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73276,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73276.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1618,
+                "Ds_Laboratorio": "Procter & Gamble"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "19901934-3",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2009M-013296-R1",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7500435107013",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73290,
+        "Codigo": "000366",
+        "Descripcion": "Dolotrin F - Acetaminofen+codeina X 10 Tab Licol",
+        "Grupo": "Licol",
+        "Subgrupo": "538 Licol",
+        "Iva": 0,
+        "Nombre": "Dolotrin F - Acetami",
+        "Desc_Corta": "Dolotrin F - Acetaminofen+codeina X 10 T",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73290,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73290.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1594,
+                "Ds_Laboratorio": "Licol"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "20093999-01",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2018M-0017994",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7705451000366",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73294,
+        "Codigo": "015626",
+        "Descripcion": "Lemovit C Vitamina C 500 Mg  Speed Gel X 30 Cap Liquidas S\/Azucar Procaps",
+        "Grupo": "Procaps",
+        "Subgrupo": "202 Procaps",
+        "Iva": 0,
+        "Nombre": "Lemovit C Vitamina C",
+        "Desc_Corta": "Lemovit C Vitamina C 500 Mg  Speed Gel X",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73294,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73294.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1601,
+                "Ds_Laboratorio": "Procaps"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "19943161-02",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2015M-0004737-R1",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7703153015626",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73295,
+        "Codigo": "305167",
+        "Descripcion": "Borax 50 Sob X 15 Gr Promarquin",
+        "Grupo": "Promarquin",
+        "Subgrupo": "682 Promarquin",
+        "Iva": 19,
+        "Nombre": "Borax 50 Sob X 15 Gr",
+        "Desc_Corta": "Borax 50 Sob X 15 Gr Promarquin",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73295,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73295.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1581,
+                "Ds_Laboratorio": "Promarquin"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "S.I.162",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707353305167",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73297,
+        "Codigo": "000373",
+        "Descripcion": "Dolotrin F Acetaminofen 325 Mg + Codeina 15 Mg X 30 Tab Licol",
+        "Grupo": "Licol",
+        "Subgrupo": "538 Licol",
+        "Iva": 0,
+        "Nombre": "Dolotrin F Acetamino",
+        "Desc_Corta": "Dolotrin F Acetaminofen 325 Mg + Codeina",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73297,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73297.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1594,
+                "Ds_Laboratorio": "Licol"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "020030345-03",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2021M-0013427-R1",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7705451000373",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73307,
+        "Codigo": "019921",
+        "Descripcion": "Decadron Dexame\/Neomicina 0,35%\/ 0,10%  Sol Oft X 5 Ml TQ",
+        "Grupo": "Tecnoquimicas",
+        "Subgrupo": "Eticos TQ",
+        "Iva": 0,
+        "Nombre": "Decadron Dexame\/Neom",
+        "Desc_Corta": "Decadron Dexame\/Neomicina 0,35%\/ 0,10%  ",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73307,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73307.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1629,
+                "Ds_Laboratorio": "Tecnoquimicas"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "32730-01",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2022M-14182-R2",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7702057019921",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73318,
+        "Codigo": "333989",
+        "Descripcion": "Ranidin Ranitidina 300 Mg X 10 Tab  Bussie",
+        "Grupo": "Bussie",
+        "Subgrupo": "173 Recipe",
+        "Iva": 0,
+        "Nombre": "Ranidin Ranitidina 3",
+        "Desc_Corta": "Ranidin Ranitidina 300 Mg X 10 Tab  Buss",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73318,
+                "Url": ""
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1613,
+                "Ds_Laboratorio": "Bussie"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "31035-1",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2009M-010110-R2",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7702195333989",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73328,
+        "Codigo": "070635",
+        "Descripcion": "Synergal Doble 2ml X 1amp",
+        "Grupo": "Lafrancol",
+        "Subgrupo": "005 Lafrancol Farmarelacional",
+        "Iva": 0,
+        "Nombre": "Synergal Doble 2ml X",
+        "Desc_Corta": "Synergal Doble 2ml X 1amp",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73328,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73328.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1589,
+                "Ds_Laboratorio": "Lafrancol"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2012M-0012883",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73332,
+        "Codigo": "000409",
+        "Descripcion": "Lidocaina Atomizador X 83 Ml Roxicaina Ropsohn",
+        "Grupo": "Ropsohn",
+        "Subgrupo": "427 Ropsohn",
+        "Iva": 0,
+        "Nombre": "Lidocaina Atomizador",
+        "Desc_Corta": "Lidocaina Atomizador X 83 Ml Roxicaina R",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73332,
+                "Url": ""
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1614,
+                "Ds_Laboratorio": "Ropsohn"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "50709-1",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7704588000409",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73333,
+        "Codigo": "300118",
+        "Descripcion": "Acido Borico Sob X 15 Gr Athos",
+        "Grupo": "Athos",
+        "Subgrupo": "684 Athos",
+        "Iva": 19,
+        "Nombre": "Acido Borico Sob X 1",
+        "Desc_Corta": "Acido Borico Sob X 15 Gr Athos",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73333,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73333.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1586,
+                "Ds_Laboratorio": "Athos"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "RES243630-99",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7705471300118",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73338,
+        "Codigo": "000416",
+        "Descripcion": "Roxicaina Lidocaina 2% Tubo X 30 Ml Jalea UsoTop Mucosas Ropsohn",
+        "Grupo": "Ropsohn",
+        "Subgrupo": "427 Ropsohn",
+        "Iva": 0,
+        "Nombre": "Roxicaina Lidocaina ",
+        "Desc_Corta": "Roxicaina Lidocaina 2% Tubo X 30 Ml Jale",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73338,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73338.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1614,
+                "Ds_Laboratorio": "Ropsohn"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "39002-01",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2014M-014270-R2",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7704588000416",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73342,
+        "Codigo": "000423",
+        "Descripcion": "Gamabenceno Plus Permetrina1% Champu X 60 Ml C\/Peine Bussie",
+        "Grupo": "Bussie",
+        "Subgrupo": "174 Bussie",
+        "Iva": 0,
+        "Nombre": "Gamabenceno Plus Per",
+        "Desc_Corta": "Gamabenceno Plus Permetrina1% Champu X 6",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73342,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73342.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1613,
+                "Ds_Laboratorio": "Bussie"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "20112633-01",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2017M-0017896",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7702195000423",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73344,
+        "Codigo": "000430",
+        "Descripcion": "Roxicaina Lidocaina Pomada 5% Tubo X 10 Gr Ropsohn",
+        "Grupo": "Ropsohn",
+        "Subgrupo": "OTC",
+        "Iva": 0,
+        "Nombre": "Roxicaina Lidocaina ",
+        "Desc_Corta": "Roxicaina Lidocaina Pomada 5% Tubo X 10 ",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73344,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73344.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1614,
+                "Ds_Laboratorio": "Ropsohn"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "39005-02",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2019M-012600-R3",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7704588000430",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73347,
+        "Codigo": "000439",
+        "Descripcion": "Dicloxacilina 500 Mg X 50 Cap MP",
+        "Grupo": "Lafrancol",
+        "Subgrupo": "041 A.G. - American Generics",
+        "Iva": 0,
+        "Nombre": "Dicloxacilina 500",
+        "Desc_Corta": "Dicloxacilina 500 Mg X 50 Cap",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73347,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73347.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1589,
+                "Ds_Laboratorio": "Lafrancol"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 2,
+                "Ds_Marca": "Los Infaltables"
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "000058899-06",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2016M-005176-R2",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7706569000439",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73352,
+        "Codigo": "000540*PB",
+        "Descripcion": "Synovular Iny X 1 Amp 1 Ml I.M. + Jeringa Lafrancol",
+        "Grupo": "Lafrancol",
+        "Subgrupo": "005 Lafrancol Farmarelacional",
+        "Iva": 0,
+        "Nombre": "Synovular Iny X 1 Am",
+        "Desc_Corta": "Synovular Iny X 1 Amp 1 Ml I.M. + Jering",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73352,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73352.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1589,
+                "Ds_Laboratorio": "Lafrancol"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 2,
+                "Ds_Marca": "Los Infaltables"
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "19763-06",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2021M-007700-R3",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7702870000540",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73354,
+        "Codigo": "000552",
+        "Descripcion": "Hidroxicina 25 Mg X 30 Tab MP",
+        "Grupo": "Lafrancol",
+        "Subgrupo": "041 A.G. - American Generics",
+        "Iva": 0,
+        "Nombre": "Hidroxicina 25 Mg X ",
+        "Desc_Corta": "Hidroxicina 25 Mg X 30 Tab MP",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73354,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73354.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1589,
+                "Ds_Laboratorio": "Lafrancol"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "40205-03",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2019M-012310-R2",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7706569000552",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73356,
+        "Codigo": "000560",
+        "Descripcion": "Terburop Terbutalina 0.3 Mg\/Ml Jbe X 120 Ml Ropsohn",
+        "Grupo": "Ropsohn",
+        "Subgrupo": "427 Ropsohn",
+        "Iva": 0,
+        "Nombre": "Terburop Terbutalina",
+        "Desc_Corta": "Terburop Terbutalina 0.3 Mg\/Ml Jbe X 120",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73356,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73356.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1614,
+                "Ds_Laboratorio": "Ropsohn"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "218166-01",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2020M-010168-R3",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7704588000560",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73357,
+        "Codigo": "000569",
+        "Descripcion": "Trigentax Clotr\/Neomic\/Betametas Cr Top X 40 Gr Chalver",
+        "Grupo": "Chalver",
+        "Subgrupo": "025 Chalver",
+        "Iva": 0,
+        "Nombre": "Trigentax Clotr\/Neom",
+        "Desc_Corta": "Trigentax Clotr\/Neomic\/Betametas Cr Top ",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73357,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73357.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1599,
+                "Ds_Laboratorio": "Chalver"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "000049309-04",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2015M-006655-R3",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7703889000569",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73359,
+        "Codigo": "005554",
+        "Descripcion": "Dolex Acetaminofen 500 Mg X 100 Tab gsk",
+        "Grupo": "Glaxosmithkline",
+        "Subgrupo": "478 Glaxosmithkline",
+        "Iva": 0,
+        "Nombre": "Dolex Acetaminofen 5",
+        "Desc_Corta": "Dolex Acetaminofen 500 Mg X 100 Tab gsk",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73359,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73359.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1639,
+                "Ds_Laboratorio": "Glaxosmithkline"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "20068891-02",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2019M-0015512-R1",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7703363005554",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73361,
+        "Codigo": "005561",
+        "Descripcion": "Dolex Acetaminofen 500 Mg X 200 Tab gsk",
+        "Grupo": "Glaxosmithkline",
+        "Subgrupo": "478 Glaxosmithkline",
+        "Iva": 0,
+        "Nombre": "Dolex Acetaminofen 5",
+        "Desc_Corta": "Dolex Acetaminofen 500 Mg X 200 Tab gsk",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73361,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73361.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1639,
+                "Ds_Laboratorio": "Glaxosmithkline"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "20068891-03",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2019M-0015512-R1",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7703363005561",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73364,
+        "Codigo": "000675",
+        "Descripcion": "Hidroxicina 250 Mg Jbe X 120 Ml MP",
+        "Grupo": "Lafrancol",
+        "Subgrupo": "041 A.G. - American Generics",
+        "Iva": 0,
+        "Nombre": "Hidroxicina 250 Mg J",
+        "Desc_Corta": "Hidroxicina 250 Mg Jbe X 120 Ml MP",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73364,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73364.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1589,
+                "Ds_Laboratorio": "Lafrancol"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "000040029-02",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2020M-013721-R3",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7706569000675",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73365,
+        "Codigo": "000682",
+        "Descripcion": "Ibuprofeno 100 Mg\/5Ml Susp Ped X 120 Ml Frambuesa MP",
+        "Grupo": "Lafrancol",
+        "Subgrupo": "041 A.G. - American Generics",
+        "Iva": 0,
+        "Nombre": "Ibuprofeno 100 Mg\/5M",
+        "Desc_Corta": "Ibuprofeno 100 Mg\/5Ml Susp Ped X 120 Ml ",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73365,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73365.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1589,
+                "Ds_Laboratorio": "Lafrancol"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "1985022-02",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2016M-003997-R2",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7706569000682",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73367,
+        "Codigo": "000705",
+        "Descripcion": "Lovastatina 20 Mg X 20 Tab MP",
+        "Grupo": "Lafrancol",
+        "Subgrupo": "041 A.G. - American Generics",
+        "Iva": 0,
+        "Nombre": "Lovastatina 20 Mg X",
+        "Desc_Corta": "Lovastatina 20 Mg X 20 Tab",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73367,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73367.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1589,
+                "Ds_Laboratorio": "Lafrancol"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 2,
+                "Ds_Marca": "Los Infaltables"
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "40518-03",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2018M-012909-R3",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7706569000705",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73369,
+        "Codigo": "035853*PB",
+        "Descripcion": "Vitamina E 100 U.I X 50 Cap Procaps",
+        "Grupo": "Procaps",
+        "Subgrupo": "202 Procaps",
+        "Iva": 0,
+        "Nombre": "Vitamina E 100 U.I X",
+        "Desc_Corta": "Vitamina E 100 U.I X 50 Cap Procaps",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73369,
+                "Url": ""
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1601,
+                "Ds_Laboratorio": "Procaps"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7703153035853",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73372,
+        "Codigo": "000753",
+        "Descripcion": "Bisolvon Jbe Ped X 120ml Boehringer",
+        "Grupo": "OPELLA",
+        "Subgrupo": "OPELLA CHC",
+        "Iva": 0,
+        "Nombre": "Bisolvon Jbe Ped X 1",
+        "Desc_Corta": "Bisolvon Jbe Ped X 120ml Boehringer",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73372,
+                "Url": ""
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1648,
+                "Ds_Laboratorio": "OPELLA"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "35271-01",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2009 M-002601-R3",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73375,
+        "Codigo": "025502",
+        "Descripcion": "Vitamina E 400 U I  X 50 Cap Speed Gel Procaps",
+        "Grupo": "Procaps",
+        "Subgrupo": "202 Procaps",
+        "Iva": 0,
+        "Nombre": "Vitamina E 400 U I  ",
+        "Desc_Corta": "Vitamina E 400 U I  X 50 Cap Speed Gel P",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73375,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73375.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1601,
+                "Ds_Laboratorio": "Procaps"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "19938463-81",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2022M-0002690-R3",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7703153025502",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73376,
+        "Codigo": "000777",
+        "Descripcion": "Bisolvon Jbe Ad X 120 Ml Boehringer",
+        "Grupo": "Sanofi",
+        "Subgrupo": "EP",
+        "Iva": 0,
+        "Nombre": "Bisolvon Jbe Ad X 12",
+        "Desc_Corta": "Bisolvon Jbe Ad X 120 Ml Boehringer",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73376,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73376.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1952,
+                "Ds_Laboratorio": "Sanofi"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "230544-03",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2009M-012500-R1",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73377,
+        "Codigo": "000781",
+        "Descripcion": "Enalapril 5 Mg X 30 Tab MP",
+        "Grupo": "Lafrancol",
+        "Subgrupo": "041 A.G. - American Generics",
+        "Iva": 0,
+        "Nombre": "Enalapril 5 Mg X 30",
+        "Desc_Corta": "Enalapril 5 Mg X 30 Tab",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73377,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73377.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1589,
+                "Ds_Laboratorio": "Lafrancol"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 2,
+                "Ds_Marca": "Los Infaltables"
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "40113-32",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2018M-013716-R3",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7706569000781",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73379,
+        "Codigo": "000811",
+        "Descripcion": "Xemizol Secnidazol 1000 Mg X 2 Tab Seres",
+        "Grupo": "Seres",
+        "Subgrupo": "545 Seres",
+        "Iva": 0,
+        "Nombre": "Xemizol Secnidazol 1",
+        "Desc_Corta": "Xemizol Secnidazol 1000 Mg X 2 Tab Seres",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73379,
+                "Url": ""
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1643,
+                "Ds_Laboratorio": "Seres"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "020004473-01",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2009M-0010142",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7705753000811",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73381,
+        "Codigo": "001224",
+        "Descripcion": "Dexametasona Iny 4 Mg X 5 Amp Dexablas Blaskov",
+        "Grupo": "Blaskov",
+        "Subgrupo": "043 Blaskov",
+        "Iva": 0,
+        "Nombre": "Dexametasona Iny 4 M",
+        "Desc_Corta": "Dexametasona Iny 4 Mg X 5 Amp Dexablas B",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73381,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73381.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1644,
+                "Ds_Laboratorio": "Blaskov"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "019954446-13",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2016M-0005120-R1",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7702896001224",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73382,
+        "Codigo": "001231",
+        "Descripcion": "Dexablas Dexametasona 8 Mg\/2 mL X 5 Amp I.V I.M  Blaskov",
+        "Grupo": "Blaskov",
+        "Subgrupo": "043 Blaskov",
+        "Iva": 0,
+        "Nombre": "Dexablas Dexametason",
+        "Desc_Corta": "Dexablas Dexametasona 8 Mg\/2 mL X 5 Amp ",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73382,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73382.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1644,
+                "Ds_Laboratorio": "Blaskov"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "19954445-13",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2016M-0005127-R1",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7702896001231",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73385,
+        "Codigo": "001897*PB",
+        "Descripcion": "PrestiblockTimolol 0.5% Solucion Oftalmica X 5 Ml Blaskov",
+        "Grupo": "Blaskov",
+        "Subgrupo": "043 Blaskov",
+        "Iva": 0,
+        "Nombre": "PrestiblockTimolol 0",
+        "Desc_Corta": "PrestiblockTimolol 0.5% Solucion Oftalmi",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73385,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73385.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1644,
+                "Ds_Laboratorio": "Blaskov"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "020038428-01",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2018M-0012975-R1",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7702896001897",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73389,
+        "Codigo": "000890",
+        "Descripcion": "Buscapina Comp Hioscin\/Dipiron 0.02\/2.5 Gr 3 Amp X 5 Ml Sanofi",
+        "Grupo": "Sanofi",
+        "Subgrupo": "EP",
+        "Iva": 0,
+        "Nombre": "Buscapina Comp Hiosc",
+        "Desc_Corta": "Buscapina Comp Hioscin\/Dipiron 0.02\/2.5 ",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73389,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73389.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1952,
+                "Ds_Laboratorio": "Sanofi"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "36344-03",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2021M-003172-R5",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7703202221107",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73392,
+        "Codigo": "000951",
+        "Descripcion": "Buscapina Comp Nf X 100caps Boehringer",
+        "Grupo": "OPELLA",
+        "Subgrupo": "OPELLA CHC",
+        "Iva": 0,
+        "Nombre": "Buscapina Comp Nf X ",
+        "Desc_Corta": "Buscapina Comp Nf X 100caps Boehringer",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73392,
+                "Url": ""
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1648,
+                "Ds_Laboratorio": "OPELLA"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "36345-01",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2020M-003171-R4",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7703202221312",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73393,
+        "Codigo": "000980",
+        "Descripcion": "Buscapina Comp Nf X 20tab Boehringer",
+        "Grupo": "OPELLA",
+        "Subgrupo": "OPELLA CHC",
+        "Iva": 0,
+        "Nombre": "Buscapina Comp Nf X ",
+        "Desc_Corta": "Buscapina Comp Nf X 20tab Boehringer",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73393,
+                "Url": ""
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1648,
+                "Ds_Laboratorio": "OPELLA"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "36345-04",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2020- 001357 R4",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7703202221329",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73394,
+        "Codigo": "000996",
+        "Descripcion": "Fosforovitam Fosforo\/Complejo B\/Vitamina E X 20 Cap Incobra",
+        "Grupo": "Incobra",
+        "Subgrupo": "Pharma",
+        "Iva": 19,
+        "Nombre": "Fosforovitam Fosforo",
+        "Desc_Corta": "Fosforovitam Fosforo\/Complejo B\/Vitamina",
+        "Tax_Status": 1,
+        "Images": [
+            {
+                "Id_Item": 73394,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73394.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1606,
+                "Ds_Laboratorio": "Incobra"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "N\/A",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "SD2013-0003027",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7706309000996",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73410,
+        "Codigo": "055558",
+        "Descripcion": "Metrozin Metroni+Nista 500 Mg\/100.000 U.I X 10 Ov Siegfried",
+        "Grupo": "Siegfried",
+        "Subgrupo": "133 Siegfried",
+        "Iva": 0,
+        "Nombre": "Metrozin Metroni+Nis",
+        "Desc_Corta": "Metrozin Metroni+Nista 500 Mg\/100.000 U.",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73410,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73410.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1697,
+                "Ds_Laboratorio": "Siegfried"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "019984679-03",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2017M-0007703-R1",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7707355055558",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73413,
+        "Codigo": "001160",
+        "Descripcion": "Cefalexina 250 Mg\/5 Ml Susp X 60 Ml MP",
+        "Grupo": "Lafrancol",
+        "Subgrupo": "041 A.G. - American Generics",
+        "Iva": 0,
+        "Nombre": "Cefalexina",
+        "Desc_Corta": "Cefalexina 250 Mg\/5 Ml Susp X 60 Ml",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73413,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73413.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1589,
+                "Ds_Laboratorio": "Lafrancol"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 2,
+                "Ds_Marca": "Los Infaltables"
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "60069-01",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2022M-005678-R3",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7706569001160",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73417,
+        "Codigo": "001206",
+        "Descripcion": "Asawin ASA 100 Mg X 100 Tab Sanofi",
+        "Grupo": "OPELLA",
+        "Subgrupo": "OPELLA CHC",
+        "Iva": 0,
+        "Nombre": "Asawin ASA 100 Mg X ",
+        "Desc_Corta": "Asawin ASA 100 Mg X 100 Tab Sanofi",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73417,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73417.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1648,
+                "Ds_Laboratorio": "OPELLA"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "57642-1",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2016M-007290-R3",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7706263001206",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73431,
+        "Codigo": "001276*PB",
+        "Descripcion": "Sildenafil 50 Mg X 2 Tab MP Inmco",
+        "Grupo": "Inmco",
+        "Subgrupo": "Inmco",
+        "Iva": 0,
+        "Nombre": "Sildenafil 50 Mg X 2",
+        "Desc_Corta": "Sildenafil 50 Mg X 2 Tab MP Inmco",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73431,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73431.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 2032,
+                "Ds_Laboratorio": "Inmco"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 0,
+                "Ds_Marca": ""
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "19908289-01",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2016M-014753-R2",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7706569001276",
+                "Visible": "true"
+            }
+        ]
+    },
+    {
+        "Id_Item": 73434,
+        "Codigo": "001351",
+        "Descripcion": "Acetato De Aluminio PH 4.5 Loc X 120 Ml MP",
+        "Grupo": "Lafrancol",
+        "Subgrupo": "041 A.G. - American Generics",
+        "Iva": 0,
+        "Nombre": "Acetato De Aluminio",
+        "Desc_Corta": "Acetato De Aluminio PH 4.5 Loc X 120 Ml",
+        "Tax_Status": 0,
+        "Images": [
+            {
+                "Id_Item": 73434,
+                "Url": "https:\/\/web-herson.s3.amazonaws.com\/Herson\/73434.png"
+            }
+        ],
+        "Laboratorio": [
+            {
+                "Id_Laboratorio": 1589,
+                "Ds_Laboratorio": "Lafrancol"
+            }
+        ],
+        "Marca": [
+            {
+                "Id_Marca": 2,
+                "Ds_Marca": "Los Infaltables"
+            }
+        ],
+        "Categorias": [],
+        "Atributos": [
+            {
+                "Id": "1",
+                "Name": "CUM",
+                "Value": "019919864-02",
+                "Visible": "true"
+            },
+            {
+                "Id": "2",
+                "Name": "Registro Sanitario",
+                "Value": "2018M-0000498-R2",
+                "Visible": "true"
+            },
+            {
+                "Id": "3",
+                "Name": "Código de Barras",
+                "Value": "7706569001351",
+                "Visible": "true"
+            }
+        ]
+    }
+]
